@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="artwork1">Villenueve la Garenne</string>
+    <string name="artist1">Alfred Sisley (1872)</string>
+    <string name="year1">(2022)</string>
+
+    <string name="artwork2">Starry Night</string>
+    <string name="artist2">Van Gogh (1890)</string>
+    <string name="year2">(2021)</string>
+
+    <string name="artwork3">Persistence of Memory</string>
+    <string name="artist3">Salvador Dali (1931)</string>
+    <string name="year3">(2020)</string>
+</resources>
